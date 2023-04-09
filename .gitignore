@@ -1,0 +1,3 @@
+# Ignore package-lock.json and package.json
+package-lock.json
+.env
